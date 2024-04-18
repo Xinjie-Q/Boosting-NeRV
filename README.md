@@ -48,7 +48,32 @@ pip install -r requirements.txt
 
 If you encounter errors while installing the packages listed in requirements.txt, you can try installing each Python package individually using the pip command.
 
-Before training, you need to download the bunny, UVG and DAVIS validation datasets. These datasets are put in the [dataset folder](./dataset).
+Before training, you need to download the bunny, UVG and DAVIS validation datasets. The dataset folder is organized as follows.
+
+```bash
+├── dataset
+│   | bunny 
+│     ├── 0001.png
+│     ├── 0002.png 
+│     ├── ...
+│   | UVG_Full
+│     ├── Beauty_1920x1080_120
+│         ├── 001.png
+│         ├── 002.png 
+│         ├── ...
+│     ├── Bosphorus_1920x1080_120
+│     ├── ...
+│   | DAVIS
+│     ├── JPEGImages
+│       ├── 1080p
+│           ├── blackswan
+│               ├── 00000.jpg
+│               ├── 00001.jpg
+│               ├── 00002.jpg
+│               ├── ...
+│           ├── bmx-trees
+|           ├── ...
+```
 
 #### Representation
 
