@@ -7,7 +7,7 @@
 
 (📧 denotes corresponding author.)
 
-This is the official implementation of our paper [Boosting-NeRV](https://arxiv.org/abs/2402.18152), a universal and novel framework that boosting current implicit video representation approaches in the reconstruction quality and convergence speed, and exhibits superior compression, inpainting and interpolation results. More qualitative and quantitative results can be found in our paper.
+This is the official implementation of our paper [Boosting NeRV](https://arxiv.org/abs/2402.18152), a universal and novel framework that boosting current implicit video representation approaches in the reconstruction quality and convergence speed, and exhibits superior compression, inpainting and interpolation results. More qualitative and quantitative results can be found in our paper.
 
 <div align=center>
 <img src="./img/bunny_time_ep.png" alt="speed" width="640" />
