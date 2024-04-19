@@ -1,7 +1,7 @@
 # Boosting Neural Representations for Videos with a Conditional Decoder
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
 [![arXiv](https://img.shields.io/badge/Boosting--NeRV-2402.18152-b31b1b)](https://arxiv.org/abs/2402.18152)
-[![GitHub Stars](https://img.shields.io/github/stars/Xinjie-Q/Boosting-NeRV.svg?style=social&label=Star&maxAge=60)](https://github.com/Xinjie-Q/Boosting-NeRV)
+
 
 [Xinjie Zhang](https://xinjie-q.github.io/), [Ren Yang📧](https://renyang-home.github.io/), [Dailan He](https://scholar.google.com/citations?user=f5MTTy4AAAAJ&hl=en), [Xingtong Ge](https://github.com/XingtongGe), [Tongda Xu](https://tongdaxu.github.io/), [Yan Wang](https://yanwang202199.github.io/), [Hongwei Qin](http://qinhongwei.com/academic/), [Jun Zhang📧](https://eejzhang.people.ust.hk/)
 
