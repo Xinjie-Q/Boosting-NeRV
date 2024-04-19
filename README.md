@@ -105,7 +105,7 @@ sh ./scripts/inpainting/enerv_boost.sh
 sh ./scripts/inpainting/hnerv_boost.sh
 ```
 
-### Interpolation
+#### Interpolation
 
 ```bash
 sh ./scripts/interpolation/nerv_boost.sh
